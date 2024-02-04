@@ -1,6 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { metadata } from "./metadata"; // Ajusta la ruta según tu estructura de archivos
+import { metadata } from "./metadata";
 
 const inter = Inter({ subsets: ["latin"] });
 
